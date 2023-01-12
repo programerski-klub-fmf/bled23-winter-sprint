@@ -1,7 +1,7 @@
 ---
-title: Workshop Title
-description: Description
+title: Zimski sprint
+description: Na tem srečanju se bomo posvetili delu na projektih programerske narave.
 layout: page
 ---
 
-Workshop description here
+Na tem srečanju se bomo posvetili delu na projektih programerske narave.
