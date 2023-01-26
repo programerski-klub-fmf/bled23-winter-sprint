@@ -26,8 +26,10 @@ Storitev [Projekt Tomo](https://www.projekt-tomo.si) je bila prvotno namenjena p
 
 ### Projekt Tomo: analiza podobnosti nalog in rešitev
 
-(opis še pride)
+Kot omenjeno zgoraj, so učitelji pripravljene sklope nalog, ki so jih želeli uporabiti v svojih predmetih, trenutno lahko le podvojili. Na ta način je nastalo precej kopij enih in istih nalog v več različicah, odvisno od trenutka podvojitve. Učiteljem, ki so naloge poprej podvojili bi lahko ponudili, da uporabijo vsebino iz aktualnih različic nalog. Ker gre v bazi sedaj za neodvisne naloge, bi bilo potrebno analizirati zgodovino sprememb in iz nje ugotoviti prvoten izvor nalog ter učiteljem ponuditi enostavno možnost posodobitve.
+
+Na podoben način bi lahko analizirali sorodonost oddanih rešitev, saj veliko učiteljev želi preveriti, ali učenci naloge oddajajo samostojno. Tudi pri oddanih rešitvah imamo dostop do zgodovine oddaj, na osnovi katere bi lahko razvili hevristike za ugotavljanje morebitnih prepisovanj.
 
 ### Nadlogar: prenos generatorjev nalog na spletno storitev
 
-(opis še pride)
+Storitev [Nadlogar](https://www.nadlogar.si) učiteljem omogoča enostavno generiranje tipskih matematičnih nalog. Je nadgraditev [knjižnice za generiranje nalog v Pythonu](https://github.com/ursa16180/generiranje-nalog/tree/python) z preprostejšim uporabniškim vmesnikom. Ob prehodu na spletno storitev bo potrebno vse obstoječe naloge ustrezno prenesti v nov format, pri čemer je posebej zahteven problem prenos grafičnih nalog.
